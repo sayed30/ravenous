@@ -2,7 +2,7 @@ import React from 'react';
 
 
 //api key
-const apikey = '5ZNQZ8kCSHEhJ2wtdhVbhptpwyggAcYQy9KNYSISkg27ZtWZJKJNjEC6RZL5Kgr6BKfLctsPMQx9RciE2H2wk1LsWbDoJflrwS6IsdZ3b4Yu2FjazYcbYJ-JyLqyW3Yx';
+const apikey = '';
 
 
 const Yelp = {
